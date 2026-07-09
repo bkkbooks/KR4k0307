@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR4k0307/kf/v1
+canonical_location: https://kanripo.org/bkk/KR4k0307/kf/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4k0307_000-kf.yaml, hash: 'sha256:57f1cea03d49bf731a0534cf0447ffc0664d82d8c7997f8389bf7a1a7d2ae487'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4k0307_000-kf.markers.yaml, hash: 'sha256:af072ae4365e7de32cf43e23c6c4e3b9e943880fdd88d6f90215b6bd52ee3919'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4k0307_kf_000-h.1
+    span:
+    - body
+    - 0
+    - 30246
+  label: ''
+  type: section
+  level: 1
+metadata:
+  title: 乾隆休妻
+  identifiers:
+    krp: KR4k0307
+  tags:
+    kr-categories: KR4k
+  source:
+    repository: tls-texts
+    path: data/tls/KR4k0307.xml
+  edition:
+    short: kf
+hash: sha256:b2f58ee6a1383098ccf788316701cac4d126368b017c13e0ba51ff9057e95c0b
