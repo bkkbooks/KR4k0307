@@ -11,6 +11,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: ''}
   - {type: line-break, offset: 4, content: '', id: ''}
   - {type: punctuation, offset: 4, content: (, id: ''}
+  - {type: voice, offset: 4, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 6, content: ), id: ''}
   - {type: line-break, offset: 10, content: '', id: ''}
   - {type: page-break, offset: 10, content: '', id: ''}
@@ -10315,4 +10316,4 @@ markers:
   - {type: punctuation, offset: 30246, content: ？, id: ''}
   - {type: paragraph-break, offset: 30246, content: '', id: KR4k0307_kf_000-p.26_end, role: close}
   back: []
-hash: sha256:6637d37c00fa15cad47056e38ecf20b35d3fa3e9ba5646ad5e1f499ee73128ba
+hash: sha256:d3dd11f438744acbb6dd1bc2dabc693f435ce09e69df5ae5762520a7e800b7c4
